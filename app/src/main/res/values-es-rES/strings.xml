@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movyou</string>
+    <string name="nav_header_title">MovYou</string>
+    <string name="nav_header_subtitle">ridwan.hartadi.setiawan@gmail.com</string>
+    <string name="ridwan_hartadi_setiawan">Ridwan Hartadi Setiawan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="rating">Estrella</string>
+    <string name="tanggal_rilis">Cita De Rilie</string>
+    <string name="deskripsi">Descripcion</string>
+    <string name="judul">Titulo</string>
+    <string name="hello_blank_fragment">Hola Fragmento En Blanco</string>
+    <string name="home">Inocio</string>
+    <string name="change_language">Cambiar Idioma</string>
+    <string name="search_hint">Encontrar Una Pelicula</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="navigation_drawer_close">Cerrar La Navegacion</string>
+    <string name="navigation_drawer_open">Navegacion Abierta</string>
+    <string name="action_search">Buscando</string>
+    <string name="menu1">Menu 1</string>
+    <string name="share">Compartir</string>
+    <string name="detail">Detalle</string>
+    <string name="NowPlaying">JUGANDO AHORA</string>
+    <string name="Upcoming">PROXIMO</string>
+</resources>

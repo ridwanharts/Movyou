@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movyou</string>
+    <string name="action_search">Cari</string>
+    <string name="nav_header_title">MovYou</string>
+    <string name="nav_header_subtitle">ridwan.hartadi.setiawan@gmail.com</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="search_hint">Cari film</string>
+    <string name="menu1">Menu 1</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="home">Halaman Depan</string>
+    <string name="hello_blank_fragment">Hai fragmen kosong</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="ridwan_hartadi_setiawan">Ridwan Hartadi Setiawan</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="rating">Bintang</string>
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="share">Bagikan</string>
+    <string name="detail">Detil</string>
+    <string name="NowPlaying">SEDANG DIPUTAR</string>
+    <string name="Upcoming">MENDATANG</string>
+</resources>

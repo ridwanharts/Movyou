@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageWidget"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="10sp"
+            android:textColor="@color/colorWhite"
+            android:textStyle="normal"
+            android:text="@string/judul"
+            android:id="@+id/judulWidget"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="8sp"
+            android:textColor="@color/colorWhite"
+            android:textStyle="italic"
+            android:id="@+id/tanggalWidget"
+            android:text="@string/tanggal_rilis"/>
+    </LinearLayout>
+</LinearLayout>

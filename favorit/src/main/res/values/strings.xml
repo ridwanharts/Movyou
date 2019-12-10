@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="judul">judul</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+    <string name="detail">Detail</string>
+    <string name="ridwan_hartadi_setiawan">ridwan hartadi setiawan</string>
+</resources>
