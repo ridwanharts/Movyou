@@ -1,5 +1,5 @@
 # MOVYOU
-Android App with Firebase to save image and text.
+Aplikasi ini adalah project submission dari beasiswa MADE dicoding 2018.
 
 ## Screenshoot
 
@@ -14,12 +14,12 @@ Android App with Firebase to save image and text.
 
 ## Feature Project
 
-* Login with google account
-* Firebase integration
-* Save favourite user (login first)
-* Admob sample
-* Download image into devices
-* Share image accros app
+* Menggunakan API themoviedb (https://www.themoviedb.org/)
+* SQLite database untuk menyimpan favourite movie
+* Library Picasso untuk menampilkan gambar
+* Retrofit 2 untuk komunikasi dengan API
+* Fitur share movie
+* Fitur Movie Now Playing, Upcoming, Favourite
 
 
 ```java
